@@ -2,10 +2,8 @@
 
 ## 目录：
 
-* [pushd](pushd)
-* [popd](popd)
-* [cat](cat)
-* [less](less)
+* [pushd/popd/cd](pushd)
+* [cat/less/vim](cat)
 * [open](open)
 * [mkdir](mkdir)
 * [rm](rm)
