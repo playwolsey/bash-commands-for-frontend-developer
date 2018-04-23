@@ -17,7 +17,7 @@
 * [alias(TODO)](alias)
 * [history(TODO)](history)
 * [lsof(TODO)](lsof)
-* [kill(TODO)](kill)
+* [kill](kill)
 * [man(TODO)](man)
 * [chmod(TODO)](chmod)
 * [curl(TODO)](curl)
