@@ -8,3 +8,5 @@
 ps aux | grep chrome
 kill -9 26758
 ```
+
+使用Alfred的工作流kill process直接输入kill chrome同样可以完成，不需要再查进程号
