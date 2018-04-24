@@ -18,7 +18,7 @@
 * [lsof(TODO)](lsof)
 * [kill](kill)
 * [man](man)
-* [chmod(TODO)](chmod)
+* [chmod](chmod)
 * [curl(TODO)](curl)
 * [awk(TODO)](awk)
 * [sed(TODO)](sed)
