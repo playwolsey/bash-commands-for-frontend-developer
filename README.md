@@ -13,7 +13,6 @@
 * [touch](touch)
 * [find(TODO)](find)
 * [grep(TODO)](grep)
-* [alias(TODO)](alias)
 * [history](history)
 * [lsof(TODO)](lsof)
 * [kill](kill)
