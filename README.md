@@ -14,7 +14,7 @@
 * [find(TODO)](find)
 * [grep(TODO)](grep)
 * [alias(TODO)](alias)
-* [history(TODO)](history)
+* [history](history)
 * [lsof(TODO)](lsof)
 * [kill](kill)
 * [man](man)
